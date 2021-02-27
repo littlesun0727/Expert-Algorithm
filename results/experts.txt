@@ -1,0 +1,6 @@
+Accuracy for logistic regression: 0.9142236699239956
+Accuracy for logistic regression(l2): 0.9207383279044516
+Accuracy for Bayes: 0.8110749185667753
+Accuracy for Fully-connected NN(15): 0.9131378935939196
+Accuracy for Fully-connected NN(10): 0.9272529858849077
+Accuracy for Fully-connected NN(5): 0.9294245385450597
